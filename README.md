@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-FILE-STORE-BOT Logo">
+  <img src="https://files.catbox.moe/aa8f8e.jpg" alt="VJ-FILE-STORE-BOT Logo">
 </p>
 <h1 align="center">
   KEVIN FILE STORE BOT
@@ -102,8 +102,8 @@ Copyright ©️ [MR KEVIN](https://t.me/+cQ8XqmrPSYZkYWU1)
 
 
 - Telegram Channel : [MR KEVIN](https://t.me/+cQ8XqmrPSYZkYWU1)
-- Contact Link : [King VJ](https://telegram.me/Kingvj01)
-- Instagram Id Link : [Tech VJ](https://www.instagram.com/yuji_itadori_ga?igsh=MWlrbXk4MjczYjE0Mg==)
+- Contact Link : [MR KEVIN](https://t.me/Mr_kevin_dm_bot)
+- Instagram Id Link : [MR KEVIN](https://www.instagram.com/yuji_itadori_ga?igsh=MWlrbXk4MjczYjE0Mg==)
 
 </b>
 </details>
